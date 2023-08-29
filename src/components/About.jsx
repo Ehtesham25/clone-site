@@ -1,5 +1,4 @@
 import intro from "../assets/intro.png";
-
 const About = () => {
     return (
         <div className='w-full px-16' >
