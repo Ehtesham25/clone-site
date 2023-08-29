@@ -1,4 +1,4 @@
-import intro from "../assets/intro.png"
+import intro from "../assets/intro.png";
 
 const About = () => {
     return (
