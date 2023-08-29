@@ -1,4 +1,3 @@
-
 import intro from "../assets/intro.png"
 
 const About = () => {
