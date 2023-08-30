@@ -1,4 +1,4 @@
-import React from 'react'
+
 import accounting from "../assets/accounting.png"
 
 const Accounting = () => {
