@@ -1,5 +1,4 @@
-import accounting from "../assets/accounting.png"
-
+import accounting from "../assets/accounting.png";
 const Accounting = () => {
     return (
         <div className='w-full' >
