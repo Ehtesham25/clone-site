@@ -21,5 +21,4 @@ const Accounting = () => {
         </div>
     )
 }
-
 export default Accounting;
