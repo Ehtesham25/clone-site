@@ -4,7 +4,7 @@ import { HiPhone } from "react-icons/hi";
 import { taxServices } from "./utils/data";
 import auth from "../assets/auth.png";
 
-const socialIcons = [FaFacebookF, FaYoutube, FaTwitter, FaInstagram, FaLinkedinIn]
+const socialIcons = [FaFacebookF, FaYoutube, FaTwitter, FaInstagram, FaLinkedinIn];
 const Footer = () => {
     return (
         <div className='w-full  p-16 bg-workSect '>
