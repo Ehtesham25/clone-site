@@ -1,5 +1,5 @@
 import { FaMapMarkerAlt, FaMapPin, FaRegEnvelope, FaFacebookF, FaYoutube, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa";
-import { HiPhone } from "react-icons/hi"
+import { HiPhone } from "react-icons/hi";
 
 import { taxServices } from "./utils/data"
 import auth from "../assets/auth.png"
