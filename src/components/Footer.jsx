@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { FaMapMarkerAlt, FaMapPin, FaRegEnvelope, FaFacebookF, FaYoutube, FaTwitter, FaInstagram, FaLinkedinIn } from "react-icons/fa"
 import { HiPhone } from "react-icons/hi"
 
