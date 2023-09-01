@@ -2,7 +2,7 @@ import { FaMapMarkerAlt, FaMapPin, FaRegEnvelope, FaFacebookF, FaYoutube, FaTwit
 import { HiPhone } from "react-icons/hi";
 
 import { taxServices } from "./utils/data";
-import auth from "../assets/auth.png"
+import auth from "../assets/auth.png";
 
 const socialIcons = [FaFacebookF, FaYoutube, FaTwitter, FaInstagram, FaLinkedinIn]
 const Footer = () => {
