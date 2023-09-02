@@ -7,7 +7,7 @@ import auth from "../assets/auth.png";
 const socialIcons = [FaFacebookF, FaYoutube, FaTwitter, FaInstagram, FaLinkedinIn];
 const Footer = () => {
     return (
-        <div className='w-full  p-16 bg-workSect '>
+        <div className='w-full  p-16 bg-workSect'>
             <div className='flex w-full items-center justify-around'>
                 <div className='w-72 flex flex-col items-start '>
                     <p className='text-2xl tracking-widest uppercase font-normal text-white text-center'>Naseems</p>
