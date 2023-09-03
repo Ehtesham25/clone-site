@@ -1,4 +1,3 @@
-
 const Header = () => {
     return (
         <div className='w-full -z-[101] h-[calc(100vh-80px)] bg-header flex items-center px-16 backdrop-blur-3xl'>
