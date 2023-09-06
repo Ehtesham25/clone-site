@@ -1,6 +1,6 @@
 import { HiPhone, HiChevronDown } from "react-icons/hi";
 
-import logo from "../assets/logo.png"
+import logo from "../assets/logo.png";
 import Services from './Services'
 
 const Navbar = () => {
