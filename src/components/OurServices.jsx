@@ -1,4 +1,3 @@
-
 import { FaExchangeAlt, FaDiceD20, FaRegHandPointRight } from "react-icons/fa"
 
 import Card from './Card'
