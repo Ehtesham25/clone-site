@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { accountServices, taxServices, companySec } from "./utils/data"
 
 const Services = () => {
