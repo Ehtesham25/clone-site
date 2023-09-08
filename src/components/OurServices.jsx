@@ -17,5 +17,4 @@ const OurServices = () => {
         </div>
     )
 }
-
 export default OurServices;
