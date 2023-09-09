@@ -1,4 +1,4 @@
-import { accountServices, taxServices, companySec } from "./utils/data"
+import { accountServices, taxServices, companySec } from "./utils/data";
 
 const Services = () => {
     return (
