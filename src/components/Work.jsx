@@ -1,4 +1,3 @@
-
 import { work } from "./utils/data"
 
 const Work = () => {
