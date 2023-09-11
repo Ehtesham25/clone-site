@@ -1,4 +1,4 @@
-import { work } from "./utils/data"
+import { work } from "./utils/data";
 
 const Work = () => {
     return (
