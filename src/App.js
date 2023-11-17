@@ -12,5 +12,5 @@ function App() {
       <Footer />
     </div>
   );
-}
+};
 export default App;
