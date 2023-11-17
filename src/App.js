@@ -1,6 +1,5 @@
 import { About, Accounting, Footer, Header, Navbar, OurServices, Work } from "./components";
 
-
 function App() {
   return (
     <div className="bg-primary">
